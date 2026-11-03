@@ -1,9 +1,12 @@
+import logging
+print("[NexPlay] Starting Python application", flush=True)
 from pathlib import Path
 import html
 import json
 import pandas as pd
 import streamlit as st
 from engine import Recommender
+print("[NexPlay] Dependencies imported", flush=True)
 
 ROOT=Path(__file__).parent
 st.set_page_config(page_title='NexPlay · Tu próximo juego', page_icon='✦', layout='wide', initial_sidebar_state='expanded')
@@ -57,7 +60,11 @@ button[kind="primary"], .stFormSubmitButton button{background:#d7fa72!important;
 </style>''', unsafe_allow_html=True)
 
 @st.cache_resource(show_spinner='Cargando tu modelo entrenado…')
-def get_engine(): return Recommender()
+def get_engine():
+    print("[NexPlay] Loading catalog and encoder", flush=True)
+    model = Recommender()
+    print(f"[NexPlay] Model ready: {len(model.catalog)} records", flush=True)
+    return model
 
 try: engine=get_engine()
 except Exception as exc:
