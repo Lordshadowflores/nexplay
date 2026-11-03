@@ -96,4 +96,3 @@ python -m unittest discover -s tests -v
 ```
 
 Fuentes de referencia: [Streamlit](https://docs.streamlit.io/get-started), [formato de guardado de Keras](https://keras.io/guides/serialization_and_saving/). El trabajo y los resultados del proyecto proceden del notebook y los artefactos proporcionados.
-

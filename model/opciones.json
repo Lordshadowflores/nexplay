@@ -1,0 +1,600 @@
+{
+  "EXPERIENCIAS": {
+    "Un jugador": [
+      "Single-player"
+    ],
+    "Multijugador": [
+      "Multi-player"
+    ],
+    "Cooperativo": [
+      "Co-op",
+      "Online Co-op"
+    ],
+    "Competitivo (PvP)": [
+      "PvP",
+      "Online PvP"
+    ],
+    "Local / pantalla dividida": [
+      "Shared/Split Screen",
+      "Local Co-Op"
+    ]
+  },
+  "GRUPOS_TAGS": {
+    "estilo": [
+      "¿Qué estilo visual te gusta?",
+      [
+        [
+          "Pixel art",
+          "Pixel Graphics"
+        ],
+        [
+          "2D",
+          "2D"
+        ],
+        [
+          "3D",
+          "3D"
+        ],
+        [
+          "Tierno / lindo",
+          "Cute"
+        ],
+        [
+          "Colorido",
+          "Colorful"
+        ],
+        [
+          "Realista",
+          "Realistic"
+        ],
+        [
+          "Estilizado",
+          "Stylized"
+        ],
+        [
+          "Anime",
+          "Anime"
+        ],
+        [
+          "Retro",
+          "Retro"
+        ],
+        [
+          "Dibujo animado",
+          "Cartoony"
+        ],
+        [
+          "Dibujado a mano",
+          "Hand-drawn"
+        ],
+        [
+          "Minimalista",
+          "Minimalist"
+        ],
+        [
+          "Oscuro",
+          "Dark"
+        ]
+      ]
+    ],
+    "perspectiva": [
+      "¿Qué perspectiva de cámara prefieres?",
+      [
+        [
+          "Primera persona",
+          "First-Person"
+        ],
+        [
+          "Tercera persona",
+          "Third Person"
+        ],
+        [
+          "Vista desde arriba",
+          "Top-Down"
+        ],
+        [
+          "Isométrica",
+          "Isometric"
+        ],
+        [
+          "Vista lateral (side-scroller)",
+          "Side Scroller"
+        ]
+      ]
+    ],
+    "tematica": [
+      "¿Qué temática te atrae?",
+      [
+        [
+          "Fantasía",
+          "Fantasy"
+        ],
+        [
+          "Ciencia ficción",
+          "Sci-fi"
+        ],
+        [
+          "Terror",
+          "Horror"
+        ],
+        [
+          "Terror psicológico",
+          "Psychological Horror"
+        ],
+        [
+          "Espacio",
+          "Space"
+        ],
+        [
+          "Zombis",
+          "Zombies"
+        ],
+        [
+          "Postapocalíptico",
+          "Post-apocalyptic"
+        ],
+        [
+          "Cyberpunk",
+          "Cyberpunk"
+        ],
+        [
+          "Medieval",
+          "Medieval"
+        ],
+        [
+          "Histórico",
+          "Historical"
+        ],
+        [
+          "Guerra",
+          "War"
+        ],
+        [
+          "Misterio",
+          "Mystery"
+        ],
+        [
+          "Detectives",
+          "Detective"
+        ],
+        [
+          "Magia",
+          "Magic"
+        ],
+        [
+          "Futurista",
+          "Futuristic"
+        ],
+        [
+          "Fantasía oscura",
+          "Dark Fantasy"
+        ],
+        [
+          "Surrealista",
+          "Surreal"
+        ]
+      ]
+    ],
+    "accion": [
+      "¿Qué tipo de acción / combate buscas?",
+      [
+        [
+          "Shooters",
+          "Shooter"
+        ],
+        [
+          "Primera persona (FPS)",
+          "FPS"
+        ],
+        [
+          "Shooter en tercera persona",
+          "Third-Person Shooter"
+        ],
+        [
+          "Hack and slash",
+          "Hack and Slash"
+        ],
+        [
+          "Peleas (fighting)",
+          "Fighting"
+        ],
+        [
+          "Sigilo",
+          "Stealth"
+        ],
+        [
+          "Bullet hell",
+          "Bullet Hell"
+        ],
+        [
+          "Souls-like (muy difíciles)",
+          "Souls-like"
+        ],
+        [
+          "Battle royale",
+          "Battle Royale"
+        ],
+        [
+          "Combate",
+          "Combat"
+        ]
+      ]
+    ],
+    "estrategia": [
+      "¿Qué tipo de estrategia / gestión te interesa?",
+      [
+        [
+          "Estrategia por turnos",
+          "Turn-Based Strategy"
+        ],
+        [
+          "Estrategia en tiempo real (RTS)",
+          "RTS"
+        ],
+        [
+          "Táctica",
+          "Tactical"
+        ],
+        [
+          "Gestión",
+          "Management"
+        ],
+        [
+          "Constructores de ciudades",
+          "City Builder"
+        ],
+        [
+          "Construir bases",
+          "Base-Building"
+        ],
+        [
+          "Torres de defensa",
+          "Tower Defense"
+        ],
+        [
+          "Gestión de recursos",
+          "Resource Management"
+        ],
+        [
+          "Economía",
+          "Economy"
+        ],
+        [
+          "Juegos de cartas",
+          "Card Game"
+        ],
+        [
+          "Construcción de mazos",
+          "Deckbuilding"
+        ]
+      ]
+    ],
+    "aventura": [
+      "¿Qué mecánicas de aventura / exploración prefieres?",
+      [
+        [
+          "Mundo abierto",
+          "Open World"
+        ],
+        [
+          "Exploración",
+          "Exploration"
+        ],
+        [
+          "Sandbox",
+          "Sandbox"
+        ],
+        [
+          "Supervivencia",
+          "Survival"
+        ],
+        [
+          "Puzles",
+          "Puzzle"
+        ],
+        [
+          "Plataformas",
+          "Platformer"
+        ],
+        [
+          "Metroidvania",
+          "Metroidvania"
+        ],
+        [
+          "Point & click",
+          "Point & Click"
+        ],
+        [
+          "Simuladores de caminar",
+          "Walking Simulator"
+        ],
+        [
+          "Novela visual",
+          "Visual Novel"
+        ],
+        [
+          "Roguelike",
+          "Rogue-like"
+        ],
+        [
+          "Roguelite",
+          "Rogue-lite"
+        ],
+        [
+          "Mazmorras",
+          "Dungeon Crawler"
+        ],
+        [
+          "Generación procedural",
+          "Procedural Generation"
+        ],
+        [
+          "Crafteo",
+          "Crafting"
+        ],
+        [
+          "Construcción",
+          "Building"
+        ],
+        [
+          "Conducción",
+          "Driving"
+        ],
+        [
+          "Carreras",
+          "Racing"
+        ],
+        [
+          "Ritmo / música",
+          "Rhythm"
+        ]
+      ]
+    ],
+    "rol": [
+      "¿Qué tipo de rol (RPG) te gusta?",
+      [
+        [
+          "JRPG",
+          "JRPG"
+        ],
+        [
+          "RPG de acción",
+          "Action RPG"
+        ],
+        [
+          "RPG de estrategia",
+          "Strategy RPG"
+        ],
+        [
+          "Personalizar personaje",
+          "Character Customization"
+        ],
+        [
+          "Combate por turnos",
+          "Turn-Based Combat"
+        ]
+      ]
+    ],
+    "narrativa": [
+      "¿Qué te importa de la historia y el ambiente?",
+      [
+        [
+          "Historia profunda",
+          "Story Rich"
+        ],
+        [
+          "Atmosférico",
+          "Atmospheric"
+        ],
+        [
+          "Decisiones que importan",
+          "Choices Matter"
+        ],
+        [
+          "Varios finales",
+          "Multiple Endings"
+        ],
+        [
+          "Gran banda sonora",
+          "Great Soundtrack"
+        ],
+        [
+          "Humor",
+          "Funny"
+        ],
+        [
+          "Drama",
+          "Drama"
+        ],
+        [
+          "Protagonista femenina",
+          "Female Protagonist"
+        ],
+        [
+          "Apto para familia",
+          "Family Friendly"
+        ],
+        [
+          "Rejugable",
+          "Replay Value"
+        ]
+      ]
+    ],
+    "ritmo": [
+      "¿Qué ritmo o dificultad prefieres?",
+      [
+        [
+          "Difícil / desafiante",
+          "Difficult"
+        ],
+        [
+          "Relajante",
+          "Relaxing"
+        ],
+        [
+          "Ritmo rápido",
+          "Fast-Paced"
+        ],
+        [
+          "Acogedor (cozy)",
+          "Cozy"
+        ],
+        [
+          "Reconfortante (wholesome)",
+          "Wholesome"
+        ],
+        [
+          "Casual",
+          "Casual"
+        ]
+      ]
+    ]
+  },
+  "REQUISITOS": [
+    [
+      "Soporte completo de mando",
+      [
+        "Full controller support"
+      ]
+    ],
+    [
+      "Mods (Steam Workshop)",
+      [
+        "Steam Workshop"
+      ]
+    ],
+    [
+      "Guardado en la nube",
+      [
+        "Steam Cloud"
+      ]
+    ],
+    [
+      "Logros de Steam",
+      [
+        "Steam Achievements"
+      ]
+    ],
+    [
+      "Jugar con amigos (Remote Play Together)",
+      [
+        "Remote Play Together"
+      ]
+    ],
+    [
+      "Subtítulos",
+      [
+        "Captions available"
+      ]
+    ],
+    [
+      "Realidad virtual (VR)",
+      [
+        "VR",
+        "VR Only",
+        "VR Supported"
+      ]
+    ],
+    [
+      "Multijugador entre plataformas",
+      [
+        "Cross-Platform Multiplayer"
+      ]
+    ],
+    [
+      "Editor de niveles",
+      [
+        "Includes level editor",
+        "Level Editor"
+      ]
+    ]
+  ],
+  "EVITAR": [
+    [
+      "Violencia explícita / gore",
+      [
+        "Gore",
+        "Violent"
+      ]
+    ],
+    [
+      "Contenido sexual / desnudez",
+      [
+        "Sexual Content",
+        "Nudity",
+        "Mature"
+      ]
+    ],
+    [
+      "Terror",
+      [
+        "Horror",
+        "Psychological Horror",
+        "Survival Horror"
+      ]
+    ]
+  ],
+  "ES_EN": {
+    "zombi": "zombie",
+    "zombis": "zombies",
+    "espacio": "space",
+    "granja": "farming",
+    "granjas": "farming",
+    "agricultura": "farming",
+    "terror": "horror",
+    "carreras": "racing",
+    "coches": "cars",
+    "carros": "cars",
+    "futbol": "soccer football",
+    "guerra": "war",
+    "magia": "magic",
+    "dragon": "dragon",
+    "dragones": "dragons",
+    "pirata": "pirate",
+    "piratas": "pirates",
+    "vampiros": "vampires",
+    "misterio": "mystery",
+    "cocina": "cooking",
+    "construir": "building",
+    "supervivencia": "survival",
+    "historia": "story",
+    "dinosaurios": "dinosaurs",
+    "ciudad": "city",
+    "musica": "music",
+    "baile": "dance",
+    "pesca": "fishing",
+    "pescar": "fishing",
+    "camiones": "trucks",
+    "trenes": "trains",
+    "aviones": "airplanes flight",
+    "submarino": "submarine",
+    "bosque": "forest",
+    "apocalipsis": "apocalypse",
+    "superheroes": "superhero",
+    "policia": "police",
+    "escuela": "school",
+    "amor": "romance",
+    "citas": "dating",
+    "mascotas": "pets",
+    "gatos": "cats",
+    "perros": "dogs",
+    "fantasia": "fantasy",
+    "robots": "robots",
+    "robot": "robot",
+    "ninja": "ninja",
+    "samurai": "samurai",
+    "cooperativo": "co-op",
+    "estrategia": "strategy",
+    "aventura": "adventure",
+    "puzzle": "puzzle",
+    "puzles": "puzzle",
+    "mundo": "world",
+    "libre": "open",
+    "oscuro": "dark",
+    "medieval": "medieval",
+    "ciencia": "science",
+    "ficcion": "fiction",
+    "nave": "spaceship",
+    "naves": "spaceships"
+  }
+}
